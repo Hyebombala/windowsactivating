@@ -1,1 +1,5 @@
+cmd - administrator
+powershell
+irm https://get.activated.win | iex
+
 https://massgrave.dev/genuine-installation-media
